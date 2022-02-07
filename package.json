@@ -1,0 +1,12 @@
+{
+  "name": "webscrapping-correios2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.2.1",
+    "puppeteer": "^13.1.3",
+    "tsc": "^2.0.4",
+    "typescript": "^4.5.5"
+  }
+}
